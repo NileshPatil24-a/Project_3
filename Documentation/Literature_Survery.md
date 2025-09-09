@@ -40,8 +40,16 @@ If a student checks Careers360 and reviews but not actual MHT-CET cut-offs, whil
 
 Information is scattered across multiple sources.
 
-No all-in-one platform combining cut-offs, placements, and preferences.
-
 Lack of AI/ML-based recommendations.
 
 Students face confusion and delays in decision-making.
+
+Information is fragmented (cutoffs in CET Cell, placements on websites).
+
+No all-in-one platform combining cut-offs, placements, and location filters.
+
+Most systems do not consider personal preferences like budget, branch, and location.
+
+Counseling is biased or costly, while portals are often promotional.
+
+No proper use of machine learning to provide personalized recommendations.
